@@ -84,19 +84,35 @@ adicione aqui os prcocessos adicionais e dependências
 
 # deploy e implatação  <a name="id05"></a>
 
-[comment]: <> (Adicione o link da implatação)
+<div align='center'>
+
+<a href='![deploy](https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=fff)'>![deploy](https://img.shields.io/badge/deploy-000?style=for-the-badge&logo=vercel&logoColor=fff) </a>
+</div>
 
 # responsividade  <a name="id06"></a>
 
 ## mobile 
+<div align='center'>
+<img src="img/mobile.png.png" alt="Minha Imagem">
+</div>
+
 
 [comment]: <> (adicione a imagem)
 
 ## tablet
+<div align='center'>
+<img src="img/tablet.png.png" alt="Minha Imagem">
+</div>
+
 
 [comment]: <> (adicione a imagem)
 
 ## desktop 
+
+<div align='center'>
+<img src="img/desktop.png.png" alt="Minha Imagem">
+</div>
+
 
 [comment]: <> (adicione a imagem)
 
